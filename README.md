@@ -1,8 +1,8 @@
-![heart](https://github.com/user-attachments/assets/f0c91918-60bf-4130-a0e5-c473b6071378)
+![pulsing_heart](https://github.com/user-attachments/assets/fd207e72-f4d9-4c8f-b041-62d5f848b0c6)
 
-IMDM 290 
+Holden Denyer
+IMDM 290 - 2025 Spring
 
-2025 Spring
+For assignment 2, I implemented a script which generates a heart made up of spheres. This script also animates the spheres to create a 'pulsing' effect. The end result is a bit unnerving...
 
-Course Material 
-![Untitled video - Made with Clipchamp (8)](https://github.com/user-attachments/assets/f862236a-a226-4e8f-8bfd-47c7161032da)
+![pulsing_heart](https://github.com/user-attachments/assets/eb2e2298-d74c-40ec-b72d-1cfb4f286b8d)
